@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "room": "204",
+    "date": "2026-10-05",
+    "start": "10:00",
+    "end": "11:00",
+    "owner": "student-a",
+    "status": "confirmed"
+  }
+]

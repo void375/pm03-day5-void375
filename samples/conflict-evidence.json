@@ -1,0 +1,24 @@
+{
+  "version": "demo-1",
+  "source": "учебная имитация",
+  "records": [
+    {
+      "id": 1,
+      "room": "204",
+      "date": "2026-10-05",
+      "start": "10:00",
+      "end": "11:00",
+      "owner": "student-a",
+      "status": "confirmed"
+    },
+    {
+      "id": 2,
+      "room": "204",
+      "date": "2026-10-05",
+      "start": "10:30",
+      "end": "11:30",
+      "owner": "student-b",
+      "status": "confirmed"
+    }
+  ]
+}
